@@ -31,8 +31,8 @@ USING coffee-shop;
 *                                       *
 * Module 2: Parameter                   *
 * - type_document                       *
-* - person                              *
-* - file                                *
+* - peson                              *
+* - file   r                             *
 *                                       *           
 * Module 1: Security                    *
 * - user                                *
